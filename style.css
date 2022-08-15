@@ -6,7 +6,7 @@
 
 :root {
   font-size: 62.5%;
-  --bg-color-app: rgb(222, 222, 222);
+  --bg-color-app: rgb(238, 238, 238);
 }
 
 body {
@@ -70,12 +70,12 @@ header {
 .line {
   margin-top: 1rem;
   border: 1px solid red;
-  width: 80%;
+  width: 100%;
 }
 
 .informations{
   display: flex;
-  justify-content: space-around;
+  justify-content: flex-end;
   margin-top: 1rem;
 
   width: 100%;
@@ -93,7 +93,9 @@ header {
   cursor: pointer;
 }
 
-@media(min-width: 768px) {
-
+@media(min-width: 1440px) {
+ .app {
+  grid-template-columns: 1fr 1fr;
+ }
 }
 
