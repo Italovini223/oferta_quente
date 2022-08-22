@@ -32,6 +32,12 @@ export class router {
         image: "https://a-static.mlcdn.com.br/210x210/fritadeira-eletrica-sem-oleo-air-fryer-electrolux-efficient-por-rita-lobo-eaf30-grafite-4l-com-timer/magazineluiza/234061400/952be780fc2ad964be21d7f62202a897.jpg",
         description: "Fritadeira Elétrica sem Óleo/Air Fryer Electrolux - Efficient por Rita Lobo EAF30 Grafite 4L com Timer",
         price: "445,55"
+      },
+
+      {
+        image:"https://images-americanas.b2w.io/produtos/01/00/img/4455139/6/4455139640P1.jpg",
+        description: "Smartphone Samsung Galaxy M52 5G 128GB 5G Wi-Fi Tela 6.7'' Dual Chip 6GB RAM Câmera Tripla + Selfie 32MP - Preto",
+        price: "1599,00"
       }
 
     ]

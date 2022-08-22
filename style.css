@@ -16,9 +16,17 @@ body {
 }
 
 header {
-  background-color: red;
+  background-color: black;
   width: 100%;
-  height: 8rem;
+  height: 10rem;
+  display: flex;
+  align-items: center;
+}
+
+header img {
+  object-fit: cover;
+  width: clamp(5rem, 7rem, 9rem);
+  margin-left: 2rem;
 }
 
 .app {
@@ -45,7 +53,8 @@ header {
   background-color: white;
 
   box-shadow: 1px 1px 5px  rgb(48, 48, 48);
-  position: relative;
+  border-radius: 2rem;
+
 }
 
 .product img {
@@ -58,7 +67,7 @@ header {
   display: flex;
   flex-direction: column;
   align-items: center;
-  min-width: 10rem;
+  width: 100%;
 }
 
 .description {
@@ -80,7 +89,9 @@ header {
 .line {
   margin-top: 1rem;
   border: 1px solid red;
+  background-color: red;
   width: 100%;
+
 }
 
 .informations{
@@ -101,6 +112,24 @@ header {
 
 .informations a:hover {
   cursor: pointer;
+}
+
+@media(min-width: 600px){
+  .app {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+@media(min-width: 1024px){
+  .app{
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+}
+
+@media(min-width:1440px){
+  .app{
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+  }
 }
 
 
