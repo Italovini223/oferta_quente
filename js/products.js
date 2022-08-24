@@ -77,10 +77,13 @@ export class productsView extends router {
           </span>
         </div>
         <div class="line"></div>
-        <div class="informations">
-          <a href="">
-            Ver na loja
-          </a>
+        <div class="information">
+          <button class="favorites">
+            <i class="fa-solid fa-heart"></i>
+          </button>
+          <button class="comments">
+            <i class="fa-solid fa-comment"></i>
+          </button>
         </div>
       </div>
    </div>

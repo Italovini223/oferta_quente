@@ -60,7 +60,7 @@ header img {
   background-color: white;
 
   box-shadow: 1px 1px 5px  rgb(48, 48, 48);
-  border-radius: 2rem;
+
 
 }
 
@@ -101,25 +101,30 @@ header img {
 
 }
 
-.informations{
+.information{
   display: flex;
   justify-content: flex-end;
+
   margin-top: 1rem;
+  gap: 1rem;
 
   width: 100%;
-
+  height: 100%;
+  padding: 0 1rem;
 
 }
 
-.informations a {
- text-decoration: none;
- color: black;
+.information button {
+ background: transparent;
+ border: none;
+}
+
+
+.information button:hover {
   cursor: pointer;
 }
 
-.informations a:hover {
-  cursor: pointer;
-}
+
 
 @media(min-width: 600px){
   .app {
