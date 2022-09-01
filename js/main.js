@@ -1,3 +1,3 @@
 import { productsView } from "./products.js";
 
-new productsView(".app")
+new productsView(".app", "header")
