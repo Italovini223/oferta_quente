@@ -97,7 +97,62 @@ export class router {
         store:"shopee.com",
         link: "https://shopee.com.br/m/shopee-doacoes?utm_source=an_18183670000&utm_medium=affiliates&utm_campaign=-&utm_content=----&af_siteid=an_18183670000&pid=affiliates&af_click_lookback=7d&af_viewthrough_lookback=1d&is_retargeting=true&af_reengagement_window=7d&af_sub_siteid=----&c=-"
       }, /**/ 
-      
+      {
+        image:"https://a-static.mlcdn.com.br/450x450/apple-iphone-13-128gb-meia-noite-tela-61-12mp-ios/magazineluiza/234661800/a57c1ab14765ab0b7ca87de98ba94b94.jpg",
+        description: "Apple iPhone 13 128GB Meia-noite Tela 6,1” 12MP",
+        price: "4949,10",
+        class: "telefone",
+        store:"magalu.com",
+        link: "https://m.magazineluiza.com.br/apple-iphone-13-128gb-meia-noite-tela-61-12mp-ios/p/234661800/te/ip13/?partner_id=56885&utm_source=bob&utm_medium=email&utm_campaign=-ft_none-nc_recomendacao-oc_venda&utm_content=-un_magalu-ce_b2c-cp_crmagendadoabandono-view-site"
+      },
+      {
+        image:"https://a-static.mlcdn.com.br/450x450/apple-iphone-13-128gb-meia-noite-tela-61-12mp-ios/magazineluiza/234661800/a57c1ab14765ab0b7ca87de98ba94b94.jpg",
+        description: "Apple iPhone 13 128GB Meia-noite Tela 6,1” 12MP",
+        price: "4949,10",
+        class: "telefone",
+        store:"magalu.com",
+        link: "https://m.magazineluiza.com.br/apple-iphone-13-128gb-meia-noite-tela-61-12mp-ios/p/234661800/te/ip13/?partner_id=56885&utm_source=bob&utm_medium=email&utm_campaign=-ft_none-nc_recomendacao-oc_venda&utm_content=-un_magalu-ce_b2c-cp_crmagendadoabandono-view-site"
+      },
+      {
+        image:"https://a-static.mlcdn.com.br/450x450/apple-iphone-13-128gb-meia-noite-tela-61-12mp-ios/magazineluiza/234661800/a57c1ab14765ab0b7ca87de98ba94b94.jpg",
+        description: "Apple iPhone 13 128GB Meia-noite Tela 6,1” 12MP",
+        price: "4949,10",
+        class: "telefone",
+        store:"magalu.com",
+        link: "https://m.magazineluiza.com.br/apple-iphone-13-128gb-meia-noite-tela-61-12mp-ios/p/234661800/te/ip13/?partner_id=56885&utm_source=bob&utm_medium=email&utm_campaign=-ft_none-nc_recomendacao-oc_venda&utm_content=-un_magalu-ce_b2c-cp_crmagendadoabandono-view-site"
+      },
+      {
+        image:"https://a-static.mlcdn.com.br/450x450/apple-iphone-13-128gb-meia-noite-tela-61-12mp-ios/magazineluiza/234661800/a57c1ab14765ab0b7ca87de98ba94b94.jpg",
+        description: "Apple iPhone 13 128GB Meia-noite Tela 6,1” 12MP",
+        price: "4949,10",
+        class: "telefone",
+        store:"magalu.com",
+        link: "https://m.magazineluiza.com.br/apple-iphone-13-128gb-meia-noite-tela-61-12mp-ios/p/234661800/te/ip13/?partner_id=56885&utm_source=bob&utm_medium=email&utm_campaign=-ft_none-nc_recomendacao-oc_venda&utm_content=-un_magalu-ce_b2c-cp_crmagendadoabandono-view-site"
+      },
+      {
+        image:"https://a-static.mlcdn.com.br/450x450/apple-iphone-13-128gb-meia-noite-tela-61-12mp-ios/magazineluiza/234661800/a57c1ab14765ab0b7ca87de98ba94b94.jpg",
+        description: "Apple iPhone 13 128GB Meia-noite Tela 6,1” 12MP",
+        price: "4949,10",
+        class: "telefone",
+        store:"magalu.com",
+        link: "https://m.magazineluiza.com.br/apple-iphone-13-128gb-meia-noite-tela-61-12mp-ios/p/234661800/te/ip13/?partner_id=56885&utm_source=bob&utm_medium=email&utm_campaign=-ft_none-nc_recomendacao-oc_venda&utm_content=-un_magalu-ce_b2c-cp_crmagendadoabandono-view-site"
+      },
+      {
+        image:"https://a-static.mlcdn.com.br/450x450/apple-iphone-13-128gb-meia-noite-tela-61-12mp-ios/magazineluiza/234661800/a57c1ab14765ab0b7ca87de98ba94b94.jpg",
+        description: "Apple iPhone 13 128GB Meia-noite Tela 6,1” 12MP",
+        price: "4949,10",
+        class: "telefone",
+        store:"magalu.com",
+        link: "https://m.magazineluiza.com.br/apple-iphone-13-128gb-meia-noite-tela-61-12mp-ios/p/234661800/te/ip13/?partner_id=56885&utm_source=bob&utm_medium=email&utm_campaign=-ft_none-nc_recomendacao-oc_venda&utm_content=-un_magalu-ce_b2c-cp_crmagendadoabandono-view-site"
+      },
+      {
+        image:"https://a-static.mlcdn.com.br/450x450/apple-iphone-13-128gb-meia-noite-tela-61-12mp-ios/magazineluiza/234661800/a57c1ab14765ab0b7ca87de98ba94b94.jpg",
+        description: "Apple iPhone 13 128GB Meia-noite Tela 6,1” 12MP",
+        price: "4949,10",
+        class: "telefone",
+        store:"magalu.com",
+        link: "https://m.magazineluiza.com.br/apple-iphone-13-128gb-meia-noite-tela-61-12mp-ios/p/234661800/te/ip13/?partner_id=56885&utm_source=bob&utm_medium=email&utm_campaign=-ft_none-nc_recomendacao-oc_venda&utm_content=-un_magalu-ce_b2c-cp_crmagendadoabandono-view-site"
+      },
 
 
 
