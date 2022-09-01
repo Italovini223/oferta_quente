@@ -107,7 +107,7 @@ export class productsView extends router {
       div.querySelector(".description p").textContent = product.description
       div.querySelector(".price").textContent = `R$ ${product.price}`
       div.querySelector(".store").textContent = product.store
-      div.querySelector(".user img").src = product.user
+
 
 
       this.root.append(div)
@@ -130,16 +130,14 @@ export class productsView extends router {
         </div>
           <div class="line"></div>
           <footer> 
-            <div class="user">
-              <img src="" alt="">
-            </div>
             <div class="actions">
-              <button class="favorites">
-              <i class="fa-regular fa-heart fa-2x"></i>
+              <button class="link">
+              <a href="">
+                <span>Ver na loja</span>
+                <i class="fa-solid fa-cart-shopping fa-2x"></i>
+              </a>
               </button>
-              <button class="comments">
-                <i class="fa-regular fa-comments fa-2x"></i>
-              </button>
+             
             </div>
           </footer>
       </div>
