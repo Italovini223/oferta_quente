@@ -231,8 +231,7 @@ export class productsView extends router {
             <div class="actions">
               <button class="link">
               <a href="" target="_blank">
-                <span>Ver na loja</span>
-                <i class="fa-solid fa-cart-shopping fa-2x"></i>
+                <span>compre agora</span>
               </a>
               </button>
              
